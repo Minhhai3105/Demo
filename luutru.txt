@@ -1,0 +1,30 @@
+ 
+6 / 2 = 3
+
+ 
+5 * 6 = 30
+Ba nghiệm thực (sử dụng công thức Cardano).
+Ba nghiệm thực (sử dụng công thức Cardano).
+Ba nghiệm thực (sử dụng công thức Cardano).
+Ba nghiệm thực (sử dụng công thức Cardano).
+Ba nghiệm thực (sử dụng công thức Cardano).
+Nghiệm kép: x1 = NaN, x2 = NaN
+Nghiệm thực duy nhất: x = 1.9999999999999996
+Ba nghiệm thực: x1 = 3.0, x2 = 1.0, x3 = 1.9999999999999998
+Nghiệm kép: x1 = 1.0, x2 = 1.0
+Nghiệm thực duy nhất: x = 2.0
+Nghiệm kép: x1 = 1.0, x2 = 1.0
+Nghiệm kép: x1 = 1.0, x2 = 1.0
+Ba nghiệm thực: x1 = 3.0, x2 = 1.0, x3 = 1.9999999999999998
+Nghiệm thực duy nhất: x = -1.0
+Nghiệm kép: x1 = 1.0, x2 = 1.0
+Bán kính: 2 -> Diện tích: 12.57
+Bán kính: 30 -> Diện tích: 2827.43
+Cạnh: 12.0 -> Diện tích: 144.0
+x1 = 0.41421356237309515, x2 = -2.414213562373095
+x1 = -2.732050807568877, x2 = 0.7320508075688772
+x1 = -1.0, x2 = 1.0
+Ba nghiệm thực: x1 = 1.2469796037174672, x2 = -1.8019377358048383, x3 = -0.4450418679126283
+Chiều dài: 20.0, Chiều rộng: 20.0 -> Diện tích: 400.0
+Cạnh: 12.0 -> Diện tích: 144.0
+23 + 7.0 = 30.0
